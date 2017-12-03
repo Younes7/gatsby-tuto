@@ -5,7 +5,7 @@ export default ({ children,data }) =>
   <h2>{data.site.siteMetadata.title}</h2>
   {children()}
   <footer>
-    Copyright ahahahahhaha
+    Copyright youns
   </footer>
 </div>
 
